@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+  <meta name="description" content="{% block description %}Ein Spaziergang durch Berlin an sechs Orten der Energiewende. Promovierende des Reiner Lemoine Kollegs erklären ihre Forschung vor Ort.{% endblock %}">
+  <meta name="color-scheme" content="light">
+  <link rel="icon" href="{{ SITEURL }}/theme/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ SITEURL }}/fonts/roboto.css">
+  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/rlk.css">
+</head>
+<body>
+  <a class="skiplink" href="#inhalt">Zum Inhalt springen</a>
+
+  <header class="siteheader">
+    <div class="wrap siteheader__inner">
+      <a class="siteheader__brand" href="{{ SITEURL }}/">
+        <img src="{{ SITEURL }}/images/rlk-logo.svg" alt="" width="40" height="40">
+        <span>
+          <strong>RLK Walking Tour</strong>
+          <small>Wie die Energiewende in unsere Stadt kommt</small>
+        </span>
+      </a>
+    </div>
+  </header>
+
+  <main id="inhalt" class="wrap">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="sitefooter">
+    <div class="wrap">
+      <p>
+        Ein Projekt des
+        <a href="https://www.reiner-lemoine-stiftung.de/kolleg/">Reiner Lemoine Kollegs</a>
+        und
+        <a href="https://reiner-lemoine-institut.de/person/edmund-obermeyer/">Edmund Obermeyer</a>.
+      </p>
+    </div>
+  </footer>
+</body>
+</html>

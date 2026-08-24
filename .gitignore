@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Pelican
+cache/
+*.pid
+
+# OS / editor
+.DS_Store
+*~
+.~lock.*#
