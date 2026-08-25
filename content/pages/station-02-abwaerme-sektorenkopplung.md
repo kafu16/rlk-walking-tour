@@ -8,6 +8,7 @@ Ort: Rückkühler am Thiemann-Quartier, vom Weigandufer aus sichtbar
 Adresse: Thiemannstraße 25-231, 12059 Berlin-Neukölln
 Koordinaten: 52.478650, 13.452645
 Forschende: Simon Dübell
+Foto: station-02.jpg
 Fotohinweis: Der Rückkühler steht stellvertretend für zahlreiche Anlagen in Berlin, die überschüssige Wärme bislang ungenutzt an die Umgebung abgeben.
 Naechste: station-03-akzeptanz-beteiligung
 

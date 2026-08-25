@@ -13,7 +13,8 @@ ihre Forschung – verständlich, vor Ort und zum Mitdiskutieren.
 
 Von der Wärmewende über Bürgerenergie bis zur sozialen Gerechtigkeit der
 Energiewende: Wir verbinden Wissenschaft mit dem Stadtraum, den wir täglich
-nutzen.
+nutzen. Wenn Du mehr über das Kolleg und die Walking Tour wissen willst oder
+Feedback hast, melde Dich gerne unter <info@rl-kolleg.de>.
 
 <dl class="tourfakten">
   <div><dt>Startpunkt</dt><dd>S-Bahnhof Sonnenallee</dd></div>

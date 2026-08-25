@@ -11,6 +11,7 @@ Fotohinweis: Abbildung 1: Ansicht des Ende 2023 zu Ende gestellten BHKWs auf dem
 Naechste: station-02-abwaerme-sektorenkopplung
 
 <div class="box box--kurz-erklaert" markdown="1">
+<p class="box__title">Kurz erklärt</p>
 
 Wärme, und mittlerweile auch Kälte, machen die Hälfte unseres Endenergieverbauchs aus. Wärme kann dabei für drei Dinge genutzt werden: Als Raumwärme, für warmes Wasser und in der Industrie. Der größte Anteil der Wärme wird jedoch in unseren Zuhause verwendet, um unsere Wohnungen zu heizen und damit wir warm duschen können. Das Fernheizwerk Neukölln macht diese Versorgung sichtbar: Hier wird Wärme zentral erzeugt und über ein Leitungsnetz in die umliegenden Kieze transportiert.
 

@@ -58,13 +58,9 @@ Es ist also das Ziel, das Stromnetz möglichst geschickt umzubauen, sodass es st
 <div class="box box--vertiefung" markdown="1">
 <p class="box__title">Vertiefung: Was ist ein Kaskadenausfall?</p>
 
-Ein Kaskadenausfall ähnelt einer Kettenreaktion.
+Bei einem Kaskadenausfall passiert etwas Ähnliches wie beim Dominoeffekt. Hierbei führt der Ausfall einer einzelnen Leitung oder eines Kraftwerks zum nächsten Ausfall und löst eine Kettenreaktion aus, an deren Ende ein großflächiger Blackout stehen kann
 
-Fällt eine Leitung aus, verteilt sich der Strom auf andere Leitungen. Diese werden dadurch stärker belastet. Überschreitet eine Leitung ihre Belastungsgrenze, wird sie aus Sicherheitsgründen automatisch abgeschaltet.
-
-Dadurch müssen wiederum andere Teile des Netzes noch mehr Strom übernehmen. Innerhalb kurzer Zeit kann sich die Störung über große Regionen ausbreiten.
-
-Entscheidend ist deshalb nicht nur, ob jedes einzelne Bauteil stabil ist. Wichtig ist auch, wie alle Teile des Systems miteinander wechselwirken.
+Fällt eine Leitung aus, verteilt sich der Strom auf andere Leitungen. Diese werden dadurch stärker belastet. Überschreitet eine Leitung ihre Belastungsgrenze, wird sie aus Sicherheitsgründen automatisch abgeschaltet. Dadurch müssen wiederum andere Teile des Netzes noch mehr Strom übernehmen. Innerhalb kurzer Zeit kann sich die Störung über große Regionen ausbreiten. Entscheidend ist deshalb nicht nur, ob jedes einzelne Bauteil stabil ist. Wichtig ist auch, wie alle Teile des Systems miteinander wechselwirken.
 
 </div>
 
@@ -128,7 +124,7 @@ Die Herausforderung besteht deshalb nicht nur darin, mehr Wind- und Solaranlagen
 
 Die sechs Stationen zeigen, dass sich die Energiewende nicht auf eine einzelne Technologie reduzieren lässt. Der Ausstieg aus fossiler Wärmeversorgung, die Nutzung industrieller Abwärme, gesellschaftliche Beteiligungsprozesse, gemeinschaftlich organisierte Solarenergie, Fragen sozialer Gerechtigkeit sowie ein resilientes Stromnetz stellen vielmehr Teilaspekte derselben Transformation dar.
 
-Am ehemaligen Abspannwerk laufen diese Themen zusammen: Das Stromnetz verbindet erneuerbare Stromerzeugung mit Wärme, Mobilität, Industrie und dem Alltag der Menschen. Eine erfolgreiche Energiewende braucht deshalb nicht nur neue Anlagen. Sie braucht ein Energiesystem, das als Ganzes geplant wird: klimaneutral, resilient, bezahlbar und gesellschaftlich getragen.
+Am ehemaligen Abspannwerk laufen diese Themen zusammen: Das Stromnetz verbindet erneuerbare Stromerzeugung mit Wärme, Mobilität, Industrie und den Alltag der Menschen. Eine erfolgreiche Energiewende braucht deshalb nicht nur neue Anlagen. Sie braucht ein Energiesystem, das als Ganzes geplant wird: klimaneutral, resilient, bezahlbar und gesellschaftlich getragen.
 
 <details class="quellen" markdown="1">
 <summary>Quellen und weiterführende Informationen</summary>

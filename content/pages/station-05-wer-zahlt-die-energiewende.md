@@ -5,8 +5,9 @@ Slug: station-05-wer-zahlt-die-energiewende
 Template: station
 Status: published
 Ort: Unsanierter Altbau in Neukölln
+Adresse: Ecke Paul-Lincke-Ufer/Liegnitzer Straße, 10999 Berlin-Bezirk Friedrichshain-Kreuzberg
+Koordinaten: 52.492361, 13.433472
 Forschende: Agatha Majcher
-Foto: station-05.jpg
 Fotohinweis: An einem unsanierten Mietshaus wird sichtbar, wie eng Klimapolitik, Heizkosten und soziale Gerechtigkeit miteinander verbunden sind.
 Naechste: station-06-stromnetz-rueckgrat
 
