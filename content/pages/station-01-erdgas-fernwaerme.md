@@ -7,7 +7,6 @@ Status: published
 Ort: Fernheizwerk Neukölln
 Adresse: Ederstraße 23, 12059 Berlin
 Forschende: Josephine Semb
-Fotohinweis: Abbildung 1: Ansicht des Ende 2023 zu Ende gestellten BHKWs auf dem Gelände der FHW-Neukölln. Hier zu sehen im Bauzustand 2022. Das Fernheizwerk Neukölln versorgt laut Betreiber über 60.000 Haushalte sowie Gewerbe und öffentliche Einrichtungen mit Wärme. Die neue Anlage zeigt zugleich, wie eng die Zukunft der Berliner Fernwärme noch mit Erdgas verbunden ist.
 Naechste: station-02-abwaerme-sektorenkopplung
 
 <div class="box box--kurz-erklaert" markdown="1">

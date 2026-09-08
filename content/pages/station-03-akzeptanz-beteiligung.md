@@ -8,6 +8,7 @@ Ort: Öffentlicher Platz mit Sitzbänken und Trinkbrunnen
 Adresse: Wildenbruchplatz Wildenbruchpl. 8-9, 12045 Berlin-Bezirk Neukölln
 Koordinaten: 52.48432159423828, 13.444151878356934
 Forschende: Merle-Marie Johannsen
+Foto: station-03.jpg
 Fotohinweis: Der öffentliche Platz steht für die Menschen, deren Alltag und Lebensumfeld sich durch die Energiewende verändern. Hier geht es nicht um eine einzelne technische Anlage, sondern um Mitsprache, Akzeptanz und gemeinsame Entscheidungen.
 Naechste: station-04-solarstrom-teilen
 
@@ -82,11 +83,14 @@ Auch der Zeitpunkt ist entscheidend. Werden Menschen erst beteiligt, nachdem wes
 
 Die Politikwissenschaftlerin Sherry Arnstein entwickelte 1969 das Bild einer "Leiter der Bürgerbeteiligung". Ihre acht Stufen reichen von scheinbarer Beteiligung über Information und Anhörung bis zu Partnerschaft, übertragener Entscheidungsmacht und weitgehender Kontrolle durch Bürger:innen:
 
-Stufe 1-2: Manipulation und Therapie (Keine Beteiligung)Auf diesen untersten Stufen findet keine echte Beteiligung statt. Bürger:innen werden instrumentalisiert um Entscheidungen im Nachhinein zu legitimieren, oder ihre Anliegen werden pathologisiert, statt ernst genommen zu werden.
+Stufe 1-2: Manipulation und Therapie (Keine Beteiligung)  
+Auf diesen untersten Stufen findet keine echte Beteiligung statt. Bürger:innen werden instrumentalisiert um Entscheidungen im Nachhinein zu legitimieren, oder ihre Anliegen werden pathologisiert, statt ernst genommen zu werden.
 
-Stufe 3-5: Information, Konsultation und Beschwichtigung (Scheinbeteiligung)Bürger:innen erhalten Informationen über bereits getroffene Pläne, werden zu ihrer Meinung befragt oder dürfen beratend mitwirken. Ein echter Einfluss auf die Entscheidung ist damit aber nicht garantiert – die letzte Entscheidungsgewalt bleibt bei den zuständigen Stellen.
+Stufe 3-5: Information, Konsultation und Beschwichtigung (Scheinbeteiligung)  
+Bürger:innen erhalten Informationen über bereits getroffene Pläne, werden zu ihrer Meinung befragt oder dürfen beratend mitwirken. Ein echter Einfluss auf die Entscheidung ist damit aber nicht garantiert – die letzte Entscheidungsgewalt bleibt bei den zuständigen Stellen.
 
-Stufe 6-8: Partnerschaft, Machtübertragung und Bürgerkontrolle (Bürgermacht)Auf diesen höchsten Stufen wird Macht tatsächlich geteilt oder übergeht sogar überwiegend an die Bürger:innen. Verhandlungen finden auf Augenhöhe statt, bis hin zur vollständigen Verantwortung und Kontrolle über Planung und Durchführung eines Projekts.
+Stufe 6-8: Partnerschaft, Machtübertragung und Bürgerkontrolle (Bürgermacht)  
+Auf diesen höchsten Stufen wird Macht tatsächlich geteilt oder übergeht sogar überwiegend an die Bürger:innen. Verhandlungen finden auf Augenhöhe statt, bis hin zur vollständigen Verantwortung und Kontrolle über Planung und Durchführung eines Projekts.
 
 Die Leiter macht einen wichtigen Unterschied sichtbar: Menschen zu informieren ist nicht dasselbe, wie ihnen Einfluss zu geben.
 
@@ -94,9 +98,10 @@ Eine Informationsveranstaltung kann transparent und sinnvoll sein. Eine Konsulta
 
 Nicht jedes Projekt muss vollständig von Bürger:innen entschieden werden. Entscheidend ist aber, ehrlich zu benennen, welchen Einfluss ein Beteiligungsformat bietet und welche Entscheidungen bereits feststehen.
 
-Quelle:
-
-Deutsche Arbeitsgemeinschaft Endlagerforschung (2016): Partizipation im Standortauswahlverfahren für ein Endlager
+<figure class="box__abb">
+  <img src="{static}/images/station-03-abb1.jpg" alt="Arnsteins Leiter der Bürgerbeteiligung (1969)" loading="lazy">
+  <figcaption>Quelle: Deutsche Arbeitsgemeinschaft Endlagerforschung (2016): Partizipation im Standortauswahlverfahren für ein Endlager</figcaption>
+</figure>
 
 </div>
 

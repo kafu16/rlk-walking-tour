@@ -237,6 +237,26 @@ p { margin: 0 0 1.15em; }
 }
 .box__link { margin-top: 1em; margin-bottom: 0; font-weight: 500; }
 
+/* A figure the box brings along itself, e.g. Arnstein's ladder in station 3.
+   White ground, because these are diagrams drawn for paper: on the box's
+   tinted background their own white edges would otherwise show as a patch. */
+.box__abb {
+  margin: 1.2em 0 0;
+}
+.box__abb img {
+  display: block;
+  width: 100%;
+  background: #fff;
+  border: 1px solid var(--blue-line);
+  border-radius: var(--radius);
+}
+.box__abb figcaption {
+  margin-top: .5em;
+  font-size: .84rem;
+  line-height: 1.45;
+  color: var(--ink-muted);
+}
+
 /* "Kurz erklärt" — the orientation box at the top of each station. */
 .box--kurz-erklaert {
   background: var(--blue-pale);
