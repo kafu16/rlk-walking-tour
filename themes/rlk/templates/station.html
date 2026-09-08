@@ -46,6 +46,10 @@
   </dl>
   {% endif %}
 
+  {# No photo and no caption means the draft is not waiting for one — station
+     1 had its picture withdrawn on purpose. Only promise "Foto folgt" where
+     the source still carries a caption for a picture yet to come. #}
+  {% if page.foto or page.fotohinweis %}
   <figure class="stationfoto">
     {% if page.foto %}
       <img src="{{ SITEURL }}/images/{{ page.foto }}"
@@ -63,6 +67,7 @@
       <figcaption>{{ page.fotohinweis | safe }}</figcaption>
     {% endif %}
   </figure>
+  {% endif %}
 
   <div class="prose">
     {{ page.content }}
