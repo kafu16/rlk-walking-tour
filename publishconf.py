@@ -19,4 +19,7 @@ SITEURL = "https://kafu16.github.io/rlk-walking-tour"
 RELATIVE_URLS = False
 
 DELETE_OUTPUT_DIRECTORY = True
-OUTPUT_RETENTION = [".nojekyll"]
+# Repeated from pelicanconf.py on purpose: this assignment runs *after* the
+# star-import above, so whatever is written here wins. Leaving "audio" out
+# deleted docs/audio/ on every publish while the local preview kept it.
+OUTPUT_RETENTION = [".nojekyll", "audio"]

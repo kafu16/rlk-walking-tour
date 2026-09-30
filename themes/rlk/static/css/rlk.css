@@ -482,6 +482,31 @@ p { margin: 0 0 1.15em; }
 .sitefooter p:last-child { margin-bottom: 0; }
 .sitefooter a { color: #fff; }
 .sitefooter__muted { opacity: .75; font-size: .82rem; }
+.sitefooter__hinweis { opacity: .75; font-size: .82rem; max-width: var(--measure); }
+
+/* ------------------------------------------------ Audio, über "Kurz erklärt" */
+/* The native player is deliberate: no library, no third-party request, and it
+   is the control people already know from every other site. */
+.stationaudio {
+  max-width: var(--measure);
+  margin: 0 auto 1.8rem;
+  padding: 1rem 1.1rem 1.1rem;
+  background: var(--blue-pale);
+  border-radius: var(--radius);
+}
+.stationaudio__titel {
+  margin: 0 0 .7em;
+  font-size: 1.02rem;
+  font-weight: 700;
+  color: var(--navy);
+}
+.stationaudio audio {
+  display: block;
+  width: 100%;
+  /* Chrome renders the bare control at 54px, Firefox at 40px; pinning the
+     height keeps the box the same size in both. */
+  height: 44px;
+}
 
 /* ---------------------------------------------------------------- wider screens */
 @media (min-width: 44rem) {

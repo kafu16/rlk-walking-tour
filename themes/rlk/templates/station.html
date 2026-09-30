@@ -69,6 +69,18 @@
   </figure>
   {% endif %}
 
+  {% if page.audio %}
+  {# Above the "Kurz erklärt" box, which is the first thing in page.content.
+     preload="none" matters here: people open this outdoors on mobile data,
+     and nine megabytes must not download until someone asks for it. #}
+  <section class="stationaudio" aria-labelledby="audio-titel">
+    <h2 id="audio-titel" class="stationaudio__titel">Diese Station zum Anhören</h2>
+    <audio controls preload="none" src="{{ SITEURL }}/audio/{{ page.audio }}">
+      <a href="{{ SITEURL }}/audio/{{ page.audio }}">Audiodatei herunterladen</a>
+    </audio>
+  </section>
+  {% endif %}
+
   <div class="prose">
     {{ page.content }}
   </div>

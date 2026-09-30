@@ -64,7 +64,10 @@ DISPLAY_CATEGORIES_ON_MENU = False
 # Rebuild from scratch each time, but keep .nojekyll if it ever lands here by
 # another route.
 DELETE_OUTPUT_DIRECTORY = True
-OUTPUT_RETENTION = [".nojekyll"]
+# "audio" is written straight into docs/ by tools/prep_assets.py rather
+# than living under content/, so that the ~56 MB of mp3 is stored once in
+# git instead of twice. Retaining it here stops the build from wiping it.
+OUTPUT_RETENTION = [".nojekyll", "audio"]
 
 # --- markdown --------------------------------------------------------------
 MARKDOWN = {

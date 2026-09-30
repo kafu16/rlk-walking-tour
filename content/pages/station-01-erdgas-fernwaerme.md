@@ -6,7 +6,9 @@ Template: station
 Status: published
 Ort: Fernheizwerk Neukölln
 Adresse: Ederstraße 23, 12059 Berlin
+Koordinaten: 52.478024, 13.455319
 Forschende: Josephine Semb
+Audio: station-01.mp3
 Naechste: station-02-abwaerme-sektorenkopplung
 
 <div class="box box--kurz-erklaert" markdown="1">
@@ -76,7 +78,7 @@ Wird der Wasserstoff anschließend wieder verbrannt, um Wärme zu erzeugen, gehe
 
 Die Wärmewende wird nicht von einer einzigen Technologie getragen. Für klimaneutrale Wärmenetze braucht es vielmehr einen Mix unterschiedlicher Quellen.
 
-Großwärmepumpen können Wärme aus Flüssen, Abwasser, Luft, dem Boden oder industriellen Prozessen aufnehmen und auf das benötigte Temperaturniveau bringen. Sie sind eine langbewährte Technologie die besonders in den skandinavischen Ländern, die Wärmeproduktion zum größten Teil abdeckt. Damit beweist sie, dass sie auch in sehr kalten Temperaturen die nötige Wärme herstellen kann. Dabei kann sie auch von sogenannte Direktstromkesseln unterstützt werden die Wasser wie ein Wasserkocher erhitzen. Andere gute Optionen sind saisonale und kurzweilige Speicher, Biogeneabfall Verbrennung oder Holzhackschnitzel die zertifizierte Brennstoff verwenden.
+Großwärmepumpen können Wärme aus Flüssen, Abwasser, Luft, dem Boden oder industriellen Prozessen aufnehmen und auf das benötigte Temperaturniveau bringen. Sie sind eine langbewährte Technologie die besonders in den skandinavischen Ländern, die Wärmeproduktion zum größten Teil abdeckt. Damit beweist sie, dass sie auch in sehr kalten Temperaturen die nötige Wärme herstellen kann. Zusätzlich kann sie auch von sogenannten Direktstromkesseln unterstützt werden, die Wasser wie ein Wasserkocher erhitzen. Andere gute Optionen sind saisonale und kurzweilige Speicher, Biogeneabfall Verbrennung oder Holzhackschnitzel die zertifizierte Brennstoff verwenden.
 
 Auch die Gebäude selbst sind entscheidend. Gut gedämmte Häuser benötigen weniger Wärme und können mit niedrigeren Heiztemperaturen versorgt werden. Das senkt den Bedarf und unterstützt die Umstellung auf erneuerbare Heiztechnologien, die dann weniger stemmen müssen.
 

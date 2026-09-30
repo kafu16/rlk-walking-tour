@@ -9,6 +9,7 @@ Adresse: Paul-Lincke-Ufer 20–21 / Ohlauer Straße 43, 10999 Berlin
 Koordinaten: 52.494033, 13.429087
 Forschende: Nubius Brandner
 Foto: station-06.jpg
+Audio: station-06.mp3
 Fotohinweis: Das ehemalige Abspannwerk Kreuzberg war einst ein wichtiger Knotenpunkt der Berliner Stromversorgung. Heute macht seine imposante Architektur eine Infrastruktur sichtbar, die im Alltag meist verborgen bleibt. Quelle: <a href="https://de.wikipedia.org/wiki/Datei:Umspannwerk-Berlin-Kreuzberg-Hans-Heinrich-Mueller-Feb-2014.jpg">https://de.wikipedia.org/wiki/Datei:Umspannwerk-Berlin-Kreuzberg-Hans-Heinrich-Mueller-Feb-2014.jpg</a>
 
 <div class="box box--kurz-erklaert" markdown="1">
@@ -39,7 +40,9 @@ In der Nähe der Verbraucher:innen wird die Spannung anschließend schrittweise 
 
 Umspannwerke sind aber nur ein einzelnes Bauteil im Stromnetz. Für die Führung steht dieses Gebäude deshalb stellvertretend für das ganze Stromnetz, das im Alltag unsichtbar bleibt. Hier wird es als imposante Architektur greifbar.
 
-Das Stromnetz verbindet alle bisherigen Stationen. Es bringt die verschiedenen Sektoren der Energiewende zusammen: erneuerbare Erzeugung, Wärme und Mobilität wachsen immer mehr zusammen. Dieses Zusammenwachsen nennt man „Sektorenkopplung“. Als letzte Station unserer Tour führt hier also alles zusammen: dezentrale Energiewende, Wärmewende und sozialen Fragen.
+Das Stromnetz verbindet alle bisherigen Stationen. Es bringt die verschiedenen Sektoren der Energiewende zusammen: erneuerbare Erzeugung, Wärme und Mobilität wachsen immer mehr zusammen. Dieses Zusammenwachsen nennt man „Sektorenkopplung“. Als letzte Station unserer Tour führt hier also alles zusammen: dezentrale Energiewende, Wärmewende und soziale Fragen.
+
+Einordnung: Welche Funktion hat das Stromnetz im Energiesystem?
 
 Das Stromnetz ist das Rückgrat der EnergieSystemWende. Bis 2045 soll Deutschland klimaneutral sein. Eine zentrale Aufgabe hierfür ist, unseren Strom vollständig auf Erneuerbare umzustellen. Das geht nur, wenn wir die Herausforderungen der EnergieSystemWende dabei wirklich lösen. Deshalb spricht man beim Stromnetz auch vom „Flaschenhals der Energiewende“: Das Netz kann die Transformation entweder voranbringen oder ausbremsen.
 

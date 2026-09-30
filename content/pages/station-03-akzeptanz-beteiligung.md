@@ -5,10 +5,11 @@ Slug: station-03-akzeptanz-beteiligung
 Template: station
 Status: published
 Ort: Öffentlicher Platz mit Sitzbänken und Trinkbrunnen
-Adresse: Wildenbruchplatz Wildenbruchpl. 8-9, 12045 Berlin-Bezirk Neukölln
-Koordinaten: 52.48432159423828, 13.444151878356934
+Adresse: Wildenbruchplatz, 12045 Berlin-Bezirk Neukölln
+Koordinaten: 52.483593, 13.446437
 Forschende: Merle-Marie Johannsen
 Foto: station-03.jpg
+Audio: station-03.mp3
 Fotohinweis: Der öffentliche Platz steht für die Menschen, deren Alltag und Lebensumfeld sich durch die Energiewende verändern. Hier geht es nicht um eine einzelne technische Anlage, sondern um Mitsprache, Akzeptanz und gemeinsame Entscheidungen.
 Naechste: station-04-solarstrom-teilen
 

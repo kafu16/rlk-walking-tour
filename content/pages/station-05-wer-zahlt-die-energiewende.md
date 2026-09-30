@@ -5,10 +5,11 @@ Slug: station-05-wer-zahlt-die-energiewende
 Template: station
 Status: published
 Ort: Unsanierter Altbau in Neukölln
-Adresse: Ecke Paul-Lincke-Ufer/Liegnitzer Straße, 10999 Berlin-Bezirk Friedrichshain-Kreuzberg
-Koordinaten: 52.492361, 13.433472
+Adresse: Paul-Lincke-Ufer 10999 Berlin-Bezirk Friedrichshain-Kreuzberg
+Koordinaten: 52.491879, 13.435033
 Forschende: Agatha Majcher
 Foto: station-05.jpg
+Audio: station-05.mp3
 Fotohinweis: An einem unsanierten Mietshaus wird sichtbar, wie eng Klimapolitik, Heizkosten und soziale Gerechtigkeit miteinander verbunden sind.
 Naechste: station-06-stromnetz-rueckgrat
 
@@ -19,7 +20,7 @@ Klimaschutz kostet Geld, aber nicht alle Menschen können gleichermaßen entsche
 
 Besonders deutlich wird dieser Konflikt in unsanierten Mietshäusern. Die Bewohner:innen zahlen die Heizkosten, können aber meist weder die Dämmung verbessern noch die Gasheizung austauschen. Steigen Energiepreise oder CO₂-Kosten, trifft die Mietenden die zusätzliche Belastung unmittelbar, obwohl die entscheidenden Investitionen von den Eigentümer:innen abhängen.
 
-Diese Station zeigt, warum wirksame Klimapolitik immer auch die Verteilung von Kosten und Handlungsmöglichkeiten berücksichtigen muss.
+Diese Station zeigt, warum wirksame Klimapolitik immer auch die Verteilung von Kosten und Handlungsmöglichkeiten berücksichtigen muss und wie diese sozial gerecht gestaltet werden könnte.
 
 </div>
 
@@ -39,7 +40,7 @@ Und die meisten, die hier wohnen, besitzen das Gebäude nicht. Sie haben weder d
 
 Der Gebäudesektor gehört zu den größten Energieverbrauchern in Deutschland. Energie wird vor allem für Raumwärme, Warmwasser, Beleuchtung und elektrische Geräte benötigt. Besonders das Heizen verursacht einen erheblichen Anteil des Energieverbrauchs und der Treibhausgasemissionen.
 
-Wie viel Energie ein Haushalt benötigt, hängt nicht nur vom persönlichen Verhalten ab. Auch die Größe der Wohnung, die Qualität der Gebäudehülle, die Heiztechnik und die Lage im Gebäude spielen eine wichtige Rolle.
+Wie viel Energie ein Haushalt benötigt, hängt nicht nur vom persönlichen Verhalten ab. Auch die Größe der Wohnung, die Qualität der Gebäudehülle, die Heiztechnik und die Lage der Gebäude spielen eine wichtige Rolle.
 
 Eine Person in einer gut gedämmten Wohnung mit moderner Heizung kann deutlich weniger Energie benötigen als ein sparsamer Haushalt in einem unsanierten Altbau. Der Energieverbrauch ist deshalb nicht allein eine individuelle Entscheidung, sondern wird stark von der vorhandenen Infrastruktur geprägt.
 
@@ -76,7 +77,7 @@ Seit 2023 werden die CO₂-Kosten bei Mietgebäuden abhängig vom energetischen 
 
 Das Grundproblem ist damit jedoch nicht vollständig gelöst. Selbst ein reduzierter Anteil kann für Haushalte mit geringem Einkommen spürbar sein. Gleichzeitig kann eine Sanierung zu höheren Mieten führen und damit diejenigen verdrängen, die eigentlich von niedrigeren Heizkosten profitieren sollten.
 
-Hinzu kommt ein breiterer Verteilungskonflikt, der über das einzelne Mietshaus hinausreicht. Während fossile Energie beim Heizen mit einem CO₂-Preis belastet wird, bestehen an anderer Stelle weiterhin staatliche Vergünstigungen, die den Verbrauch fossiler Energie begünstigen, etwa die steuerliche Bevorzugung von Diesel oder die Befreiung von Flugbenzin von der Energiesteuer. Von solchen Vorteilen profitieren tendenziell eher Haushalte mit höherem Einkommen, während der CO₂-Preis beim Wohnen gerade die unteren Einkommen trifft.
+Hinzu kommt ein breiterer Verteilungskonflikt, der über das einzelne Mietshaus hinausreicht. Während fossile Energie beim Heizen mit einem CO₂-Preis belastet wird, bestehen an anderer Stelle weiterhin staatliche Vergünstigungen, die den Verbrauch fossiler Energie begünstigen, etwa die steuerliche Bevorzugung von Diesel oder die Befreiung von Flugbenzin von der Energiesteuer. Von solchen Vorteilen profitieren tendenziell eher Haushalte mit höherem Einkommen, während der CO₂-Preis beim Wohnen gerade die unteren Einkommensgruppen trifft.
 
 Damit stellt sich eine grundsätzliche Frage: Werden Belastungen und Entlastungen so verteilt, dass diejenigen mit hohen Emissionen und großen finanziellen Möglichkeiten mehr beitragen? Oder treffen die Kosten vor allem jene Haushalte, die ihren Verbrauch kaum verändern können?
 
@@ -95,8 +96,6 @@ Eigentümer:innen müssen gleichzeitig stärker dazu angehalten werden, ineffizi
 Darüber hinaus sollten fossile Subventionen systematisch überprüft und schrittweise abgebaut werden. Die frei werdenden Mittel könnten in Gebäudesanierung, klimafreundliche Wärmeversorgung, öffentlichen Verkehr und direkte soziale Entlastung fließen.
 
 Eine gerechte Energiewende bedeutet nicht, dass niemand Kosten trägt. Sie bedeutet, dass Kosten nach Leistungsfähigkeit, Verantwortung und tatsächlichen Handlungsmöglichkeiten verteilt werden.
-
-Menschen, die wenig emittieren, wenig verdienen und kaum Einfluss auf ihre Heizung oder ihr Gebäude haben, sollten nicht stärker belastet werden als Haushalte mit hohem Verbrauch und großen finanziellen Spielräumen.
 
 <div class="box box--vertiefung" markdown="1">
 <p class="box__title">Vertiefung: Was bedeutet eine progressive Verteilung?</p>
@@ -134,22 +133,15 @@ Ziel ist es, Klimapolitik so zu gestalten, dass sie Emissionen wirksam reduziert
 <div class="box box--denkfrage" markdown="1">
 <p class="box__title">Denkfrage</p>
 
-Wer kann in einem unsanierten Mietshaus meist über die Heizungsart und eine energetische Sanierung entscheiden?
+Wer sollte in einem unsanierten Mietshaus darüber entscheiden, ob und wann energetisch saniert und die Heizung ausgetauscht wird?
 
-- A) Die Mieter:innen, weil sie die Heizkosten bezahlen.
-- B) Die Eigentümer:innen beziehungsweise die vermietende Seite.
-- C) Der Energieversorger allein.
+- A) Die Mieter:innen, weil sie die Heizkosten bezahlen.  
+B) Die Eigentümer:innen, weil ihnen das Gebäude gehört und sie die Investition tragen.  
+C) Politische Entscheidungsträger:innen, mit verbindlichen Vorgaben bis wann welche Maßnahmen umgesetzt werden müssen.
 
-<details class="denkfrage__answer" markdown="1">
-<summary>Antwort anzeigen</summary>
+Auf diese Frage gibt es keine eindeutig richtige Antwort, denn jede Option folgt einer nachvollziehbaren Logik. Heute entscheiden in der Regel die Eigentümer:innen über grundlegende Investitionen wie Dämmung, Fenster oder eine neue Heizungsanlage. Die Mieter:innen tragen dagegen einen großen Teil der laufenden Energie- und Heizkosten und damit auch den steigenden CO₂-Preis.
 
-Richtig ist Antwort B.
-
-Über grundlegende Investitionen wie Dämmung, Fenster oder den Austausch der Heizungsanlage entscheiden in der Regel die Eigentümer:innen. Die Mieter:innen tragen dagegen einen großen Teil der laufenden Energie- und Heizkosten.
-
-Genau diese Trennung macht sozial gerechte Klimapolitik so anspruchsvoll: Diejenigen, die bezahlen, können die technische Lösung häufig nicht selbst verändern. Deshalb müssen CO₂-Preis, Gebäudeförderung, Mietrecht und soziale Entlastung miteinander abgestimmt werden.
-
-</details>
+Diese Konstellation wird oft als Vermieter-Mieter-Dilemma bezeichnet: Wer investieren könnte, profitiert kaum von niedrigeren Heizkosten. Und wer davon profitieren würde, kann die Technik nicht selbst verändern. Vorgaben greifen deshalb schon heute ein, zum Beispiel mit Vorgaben für neue Heizungen oder damit, dass Vermieter:innen seit 2023 einen Teil der CO₂-Kosten übernehmen.
 
 </div>
 
