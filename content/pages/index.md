@@ -5,11 +5,12 @@ Save_as: index.html
 URL:
 Status: published
 
-Wie verändert die Energiewende unsere Stadt – und unseren Alltag? Auf einem
-geführten Spaziergang durch Berlin besuchen wir sechs Orte, an denen sich das
-ganz konkret zeigt: ein Fernheizwerk, eine Photovoltaikanlage, ein Umspannwerk
-und mehr. An jeder Station erklären Promovierende des Reiner Lemoine Kollegs
-ihre Forschung – verständlich, vor Ort und zum Mitdiskutieren.
+Wie verändert die Energiewende unsere Stadt – und unseren Alltag? Auf diesem
+Spaziergang durch Berlin kannst Du sechs Orte besuchen, an denen sich das ganz
+konkret zeigt: ein Fernheizwerk, eine Photovoltaikanlage, ein Umspannwerk und
+mehr. An jeder Station erklären Promovierende des Reiner Lemoine Kollegs
+welchen Energiewendebezug diese hat und welche Forschung dazu im Kolleg
+durchgeführt wird.
 
 Von der Wärmewende über Bürgerenergie bis zur sozialen Gerechtigkeit der
 Energiewende: Wir verbinden Wissenschaft mit dem Stadtraum, den wir täglich

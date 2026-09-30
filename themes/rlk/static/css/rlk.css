@@ -500,6 +500,16 @@ p { margin: 0 0 1.15em; }
   font-weight: 700;
   color: var(--navy);
 }
+/* The note belongs to the heading, but is not part of the claim it makes --
+   lighter and smaller, so "Diese Station zum Anhören" still reads as the
+   label and the note as an aside. */
+.stationaudio__hinweis {
+  display: block;
+  margin-top: .25em;
+  font-weight: 400;
+  font-size: .82rem;
+  color: var(--ink-muted);
+}
 .stationaudio audio {
   display: block;
   width: 100%;

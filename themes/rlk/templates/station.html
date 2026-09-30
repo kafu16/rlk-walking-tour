@@ -74,7 +74,8 @@
      preload="none" matters here: people open this outdoors on mobile data,
      and nine megabytes must not download until someone asks for it. #}
   <section class="stationaudio" aria-labelledby="audio-titel">
-    <h2 id="audio-titel" class="stationaudio__titel">Diese Station zum Anhören</h2>
+    <h2 id="audio-titel" class="stationaudio__titel">Diese Station zum Anhören
+      <span class="stationaudio__hinweis">(Hinweis: KI generierte Audio Datei)</span></h2>
     <audio controls preload="none" src="{{ SITEURL }}/audio/{{ page.audio }}">
       <a href="{{ SITEURL }}/audio/{{ page.audio }}">Audiodatei herunterladen</a>
     </audio>
